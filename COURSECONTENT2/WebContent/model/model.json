@@ -1,0 +1,316 @@
+{
+
+	"coursecontentset": {
+		"title": "SAPUI5 | FIORI | GATEWAY on S/4 HANA ",
+
+		"type": "- Live cum E-Learning Sessions",
+
+		"prerequisite": "Pre-Requisite : ABAP",
+
+		"coursetype": [{
+				"title": "SAPUI5 | Fiori | Netweaver Gateway",
+				"content": [{
+						"title": "introduction",
+
+						"subcontent": [{
+								"subtitle": "Introduction to SAP Fiori"
+							},
+
+							{
+								"subtitle": "Introduction to SAP Fiori"
+							}
+						]
+					},
+					{
+						"title": "HTML",
+						"subcontent": [{
+								"subtitle": "Introduction to HTML"
+							},
+							{
+								"subtitle": "Developing Web Page"
+							},
+							{
+								"subtitle": "HTML-link,iframe"
+							}
+						]
+
+
+					},
+					{
+						"title": "CSS",
+						"subcontent": [{
+								"subtitle": "Introduction to CSS"
+							},
+							{
+								"subtitle": "Basic Contents, Special Features"
+							},
+							{
+								"subtitle": "Advanced features"
+							}
+						]
+
+
+					},
+					{
+						"title": "DOM",
+						"subcontent": [{
+							"subtitle": "Document object model"
+						}]
+
+
+					},
+
+					{
+						"title": "JavaScript",
+						"subcontent": [{
+								"subtitle": "Introduction"
+							},
+							{
+								"subtitle": "Introduction - II"
+							},
+							{
+								"subtitle": "Number, strings"
+							},
+							{
+								"subtitle": "Date, Objects, and DOM"
+							},
+							{
+								"subtitle": "Events"
+							},
+							{
+								"subtitle": "Regular Expressions"
+							}
+						]
+
+
+					},
+					{
+						"title": "jQuery",
+						"subcontent": [{
+								"subtitle": "Introduction"
+							},
+							{
+								"subtitle": "jQuery DOM Manipulation"
+							},
+							{
+								"subtitle": "Prototype in JavaScript"
+							}
+						]
+
+
+					},
+					{
+						"title": "SAPUI5",
+						"subcontent": [{
+								"subtitle": "Introduction"
+							},
+							{
+								"subtitle": "Control property"
+							},
+							{
+								"subtitle": "Applying CSS to Control"
+							},
+							{
+								"subtitle": "Styles in Control - Part 2"
+							},
+							{
+								"subtitle": "Events in Control"
+							},
+							{
+								"subtitle": "Aggregation in Control"
+							},
+							{
+								"subtitle": "Aggregation in Control part-2"
+							},
+							{
+								"subtitle": "Creating XML View"
+							},
+							{
+								"subtitle": "Creating XML View - Part 2"
+							},
+							{
+								"subtitle": "Creating XML View, Event Handling"
+							},
+							{
+								"subtitle": "Introduction to Databinding"
+							},
+							{
+								"subtitle": "Property Binding"
+							},
+							{
+								"subtitle": "Aggregation binding"
+							},
+							{
+								"subtitle": "Aggregation binding in sap.m.Table"
+							},
+							{
+								"subtitle": "XML model, and Resource Model"
+							}
+						]
+
+
+					},
+					{
+						"title": "OData",
+						"subcontent": [{
+								"subtitle": "Introduction"
+							},
+							{
+								"subtitle": "Service consumption in SAP Web IDE"
+							},
+							{
+								"subtitle": "Read operation"
+							},
+							{
+								"subtitle": "Read Operation in SAPUI5"
+							},
+							{
+								"subtitle": "$Select in SAPUI5"
+							},
+							{
+								"subtitle": "Filtering Data in SAPUI5"
+							},
+							{
+								"subtitle": "Overview of Entity Data Model"
+							},
+							{
+								"subtitle": "Getting List of Product Details - EntitySet"
+							},
+							{
+								"subtitle": "Filter on EntitySet, and Read"
+							}						]
+					},
+					{
+						"title": "SAP Netweaver Gateway",
+						"subcontent": [{
+								"subtitle": "Overview of SAP NetWeaver Gateway"
+							},
+							{
+								"subtitle": "Overview of SAP Netweaver Gateway - Part 2"
+							},
+							{
+								"subtitle": "Navigation from Product to Supplier"
+							},
+							{
+								"subtitle": "Creating Entity - Part 1"
+							},
+							{
+								"subtitle": "Update and delete"
+							},
+							{
+								"subtitle": "Function import"
+							},
+							{
+								"subtitle": "Images - using $value"
+							},
+							{
+								"subtitle": "Uploading File - Part 1"
+							},
+							{
+								"subtitle": "File Download, Service Provision using RFC"
+							}						]
+					},
+					{
+						"title": "Advanced SAPUI5",
+						"subcontent": [{
+								"subtitle": "SAPUI5 Component"
+							},
+							{
+								"subtitle": "Revision on Component"
+							},
+							{
+								"subtitle": "Routing in SAPUI5"
+							},
+							{
+								"subtitle": "Navigation from Product to product Details"
+							},
+							{
+								"subtitle": "Introduction to SplitApp"
+							},
+							{
+								"subtitle": "Extending Standard Fiori Application"
+							},
+							{
+								"subtitle": "Extending Standard Fiori Application - part2"
+							}			]
+					},
+					{
+						"title": "SAP Fior",
+						"subcontent": [{
+								"subtitle": "SAP Fiori"
+							}]},
+							{
+						"title": "Add-ons",
+						"subcontent": [{
+								"subtitle": "Fragments SAPUI5 - part 1"
+							},
+							{
+								"subtitle": "Fragments SAPUI5 - part 2"
+							},
+							{
+								"subtitle": "OData - orderby - backend implementation"
+							},
+							{
+								"subtitle": "Expand option in OData, SAPUI5 Implementation"
+							},
+							{
+								"subtitle": "Uploading file in SAPUI5"
+							},
+							{
+								"subtitle": "Formatters in SAPUI5"
+							}	
+								]
+					},
+					
+							{
+						"title": "Project Assignment",
+						"subcontent": [{
+								"subtitle": "Asst 1-Employe Registration Form template"
+							},
+							{
+								"subtitle": "Asst 2-Working with multiple Services"
+							}
+								]
+					},
+					{
+						"title": "ABAP OOPs",
+						"subcontent": [{
+								"subtitle": "What is Object & class"
+							},
+							{
+								"subtitle": "Methods, Attributes"
+							},
+							{
+								"subtitle": "Methods, Constructor"
+							},
+							{
+								"subtitle": "Object RelationShip - Association"
+							},
+							{
+								"subtitle": "Association, Aggregation Relationship"
+							},
+							{
+								"subtitle": "Aggregation, Composition, inheritance"
+							},
+							{
+								"subtitle": "Abstract, Type Casting"
+							}	
+								]
+					}
+					
+
+					
+
+
+
+
+				]
+
+			}
+
+		]
+
+
+	}
+
+}

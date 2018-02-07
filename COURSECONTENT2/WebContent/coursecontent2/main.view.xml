@@ -1,0 +1,36 @@
+<core:View xmlns:core="sap.ui.core" xmlns:mvc="sap.ui.core.mvc" xmlns="sap.m"
+		controllerName="coursecontent2.main" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:l="sap.ui.layout">
+	<Page title="Title">
+		<content>
+		
+		
+		<l:BlockLayout id="BlockLayout">
+			<l:BlockLayoutRow accentCells="Accent1">
+				<l:BlockLayoutCell
+				titleAlignment="Begin"
+				titleLevel="H1"
+				width="2"
+				backgroundColorSet="ColorSet5"
+				 backgroundColorShade="ShadeA"
+				
+				
+						id="Accent1"
+						
+						title="{/coursecontentset/title}">
+					
+						<VBox>
+						<Title text="{/coursecontentset/type}"/>
+						<Title text="{/coursecontentset/prerequisite}"/>
+						<Button text="course content" press="gotoContent"/>
+						</VBox>
+		
+			</l:BlockLayoutCell>
+		</l:BlockLayoutRow>
+			</l:BlockLayout>
+		
+		
+		
+	
+		</content>
+	</Page>
+</core:View>
